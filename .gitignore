@@ -28,12 +28,8 @@
 
 # Ignore node_modules
 node_modules/
-# public/
-
-# Ignore directories that should not be tracked
-/public/
-/server/
 
 # Ignore environment files
 .env
 *.log
+
